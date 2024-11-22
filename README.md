@@ -1,0 +1,1 @@
+This project is about creating a website that will consist of a main index page which will have links to a few recipes. The website won't be pretty since it will only be built using HTML
