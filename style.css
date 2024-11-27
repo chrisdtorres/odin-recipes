@@ -1,0 +1,46 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.topTitle {
+    text-align: center;
+    font-size: 50px;
+}
+
+li {
+    color: black;
+    padding-bottom: 5px;
+    list-style-type: none;
+}
+
+.items {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.chickenImage,
+.alfredoImage,
+.ramenImage,
+.bulgogiImage {
+    display: block;
+    width: 500px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
